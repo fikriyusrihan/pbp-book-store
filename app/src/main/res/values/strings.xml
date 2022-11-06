@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Book Store</string>
+    <string name="dummy_title">The Alchemist, 25th Anniversary: A Fable About Following Your Dream</string>
+    <string name="dummy_author">Paulo Coelho</string>
+    <string name="star_icon">Star Icon</string>
+    <string name="rating">Rating</string>
+    <string name="dummy_rating">4.3</string>
+    <string name="language_icon">Language Icon</string>
+    <string name="language">Language</string>
+    <string name="dummy_language">English</string>
+    <string name="book_icon">Book Icon</string>
+    <string name="pages">Pages</string>
+    <string name="dummy_pages">208</string>
+    <string name="calendar_icon">Calendar Icon</string>
+    <string name="year">Year</string>
+    <string name="dummy_year">2014</string>
+    <string name="free_sample">Free sample</string>
+    <string name="buy_price">Buy IDR 227,813.00</string>
+    <string name="about_this_book">About this book</string>
+    <string name="dummy_about">A special 25th anniversary edition of the extraordinary international bestseller, including a new Foreword by Paulo Coelho. \n\nCombining magic, mysticism, wisdom and wonder into an inspiring tale of self-discovery, The Alchemist has become a modern classic, selling millions of copies around the world and transforming the lives of countless readers across generations.</string>
+    <string name="ratings_and_reviews">Ratings and reviews</string>
+    <string name="rating_4_stars">4 stars rating</string>
+    <string name="dummy_count_reviews">4,962 reviews</string>
+    <string name="dummy_reviewer_name">Jw Crawford</string>
+    <string name="reviewer_profile_picture">Reviewer profile picture</string>
+    <string name="dummy_review">The Alchemist is a mesmerizing story about a young shepherd named Santiago and his heroes journey to find his long waited treasure. Santiago keeps on having a recurring dream about a hidden treasure somewhere in Egypt.</string>
+    <string name="book_cover_image">Book cover image</string>
+</resources>
